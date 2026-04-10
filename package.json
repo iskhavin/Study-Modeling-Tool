@@ -1,0 +1,21 @@
+{
+  "name": "study-visit-model",
+  "version": "0.1.0",
+  "description": "Interactive planning tool for projecting monthly visit load in clinical research studies.",
+  "main": "study-visit-model.jsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "keywords": [
+    "clinical-research",
+    "study-planning",
+    "visit-modeling",
+    "react"
+  ],
+  "license": "MIT"
+}
